@@ -14,7 +14,7 @@
 # Interesting Projects
 
 ## Building Toy KoChatGPT using RHLF (0328)
-<img src="./img/RHLF.png" width="600" height="600"/>
+<img src="./img/RHLF.png" width="300" height="300"/>
 - backbone : KoGPT-2
 - Supervised Finetuning with kogpt-2 generated instruction dataset
 - Make Reward Model with chatGPT, davinch, ada(good, bad, worst)
@@ -23,7 +23,7 @@
 
 
 ## Recommendation with DL (0404_rec)
-<img src="./img/AutoInt.png" width="600" height="600"/>
+<img src="./img/AutoInt.png" width="300" height="300"/>
 - Data : MovieLens1M
 - Model : AutoInt+
 - Visualization : Streamlit
